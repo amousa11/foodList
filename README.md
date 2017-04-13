@@ -6,12 +6,15 @@ NEW YORK
 - [ ] Prince St
 - [ ] Joe’s
 - [ ] Lombardi’s
-- [ ] Totonno’s
+- [ ] Totonno’s 
 - [ ] Umberto’s - Grandma Slice (cheese on bottom, sauce on top)
 - [ ] Cookie Dō
 - [ ] Emiri Ristorante (truffle gnocchi)
 - [ ] Kith
 - [ ] Shake Shack
+- [ ] Ippudo (Ramen)
+- [ ] Eataly NYC Flatiron
+- [ ] Ring Ding Bar
 
 NEW JERSEY
 
@@ -40,8 +43,8 @@ Berkeley
 - [x] Bongo Burger
 - [x] Snack Shack
 - [x] Zachary’s Deep Dish
-- [ ] Cholita Linda
-- [ ] Asha
+- [x] Cholita Linda
+- [x] Asha
 - [ ] Lois V Pie Clean
 - [ ] Rick and Ann’s
 - [ ] 900 Grayson
@@ -54,6 +57,8 @@ Berkeley
 - [ ] Burma Superstar
 - [ ] Noodle Theory
 - [ ] Zut!
+- [x] Easy Creole
+- [ ] Cafe M
 
 San Diego
 
@@ -71,8 +76,10 @@ San Diego
 - [ ] Urbn Pizza
 - [ ] Baked Bear
 - [ ] Milk Bar
+- [x] Parq (the nightclub)
+- [ ] Donut Bar
 
-SF
+SF 
 
 - [ ] Boba Guys
 - [ ] Woodhouse Fish Company
@@ -80,7 +87,7 @@ SF
 - [ ] Cancun Taqueria
 - [ ] El Farolito
 - [ ] Delfina’s Pizzeria
-- [ ] Delfina’s
+- [ ] Delfina’s 
 - [ ] Zuni
 - [x] Boulevard (Michelin Star)
 - [ ] Mission Beach Cafe
@@ -103,7 +110,8 @@ SF
 - [x] Hot Cookie
 - [ ] Powder (very lactose)
 - [x] Justforyou cafe
-- [ ] The Pasta Company
+- [ ] The Pasta Company 
+- [ ] The Italian homemade 
 
 Los Angeles
 - [ ] Farmshop
@@ -118,13 +126,23 @@ Los Angeles
 - [x] Roscoe's Chicken and Waffles
 - [ ] Urth Café
 - [ ] Jenni's Ice Cream
+- [ ] California Donuts
 
 Irvine
 - [ ] After's
-- [ ] Umami Burger
-- [ ] Wholesome Choice
-- [ ] The Dirty Cookie (OC)
+- [x] Umami Burger
+- [ ] Wholesome Choice 
+- [x] Neptune's Raw Bar
+- [x] The Dirty Cookie (OC)
+- [x] Project Poke
+- [ ] Caspian (Persian)
+- [ ] Creme & Sugar
+- [ ] The Kroft
+- [ ] Nitrolado
 
 Seattle
 - [ ] Ivar's Fish Bar
 - [ ] Victrola Coffee Roasters
+
+Atlanta
+- [ ] My Fair Sweets
